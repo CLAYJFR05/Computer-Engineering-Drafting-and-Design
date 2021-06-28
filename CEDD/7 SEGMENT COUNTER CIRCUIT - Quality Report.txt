@@ -1,0 +1,49 @@
+
+Circuit Wizard Quality Check
+
+Created : 5/16/2021 2:01:03 AM
+Design  : C:\Users\JOMAR\Desktop\CEDD\7 SEGMENT COUNTER CIRCUIT.cwz
+Title   : 
+Author  : 
+
+-----------------------------------------------------------------------------
+1. CONNECTIVITY CHECK
+-----------------------------------------------------------------------------
+
+  WARNING: The connection between pin 2 of B1, pin 2 of IC2, pin 8 of IC2,
+           pin 15 of IC2, pin 2 of C1, pin 2 of R2, pin 1 of IC1 and pin 2
+           of R3 on the PCB layout is different from the circuit diagram.
+
+  WARNING: The connection between pin 1 of B1, pin 4 of IC1, pin 8 of IC1,
+           pin 3 of IC2, pin 16 of IC2 and pin 1 of R1 on the PCB layout is
+           different from the circuit diagram.
+
+  2 issue(s) detected.
+
+  To help fix the connections you can show the pin numbers on the components
+  by choosing Pin Numbers from the View | Display menu.
+
+-----------------------------------------------------------------------------
+2. COMPONENT VALUE CHECK
+-----------------------------------------------------------------------------
+
+  No issues found.
+
+-----------------------------------------------------------------------------
+3. COMPONENT LAYOUT CHECK
+-----------------------------------------------------------------------------
+
+  No issues found.
+
+-----------------------------------------------------------------------------
+4. REPORT SUMMARY
+-----------------------------------------------------------------------------
+
+  2 issue(s) detected.
+
+  Once the items listed here have been checked you should run the Quality
+  Check report again to ensure that no further problems exist.
+
+-----------------------------------------------------------------------------
+
+End of report.

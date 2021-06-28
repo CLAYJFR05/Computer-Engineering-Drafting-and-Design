@@ -1,0 +1,52 @@
+
+Circuit Wizard Quality Check
+
+Created : 5/16/2021 12:48:16 PM
+Design  : C:\Users\JOMAR\Desktop\CEDD\whjfg.cwz
+Title   : 
+Author  : 
+
+-----------------------------------------------------------------------------
+1. CONNECTIVITY CHECK
+-----------------------------------------------------------------------------
+
+  WARNING: The connection between pin 2 of C1, pin 1 of IC1, pin 2 of R2,
+           pin 2 of IC2, pin 8 of IC2, pin 15 of IC2, pin 2 of B1 and pin 2
+           of R3 on the PCB layout is different from the circuit diagram.
+
+  WARNING: The connection between pin 1 of R1, pin 4 of IC1, pin 8 of IC1,
+           pin 1 of B1, pin 3 of IC2 and pin 16 of IC2 on the PCB layout is
+           different from the circuit diagram.
+
+  WARNING: The connection between pin 3 of IC1, pin 1 of D1 and pin 1 of IC2
+           on the PCB layout is different from the circuit diagram.
+
+  3 issue(s) detected.
+
+  To help fix the connections you can show the pin numbers on the components
+  by choosing Pin Numbers from the View | Display menu.
+
+-----------------------------------------------------------------------------
+2. COMPONENT VALUE CHECK
+-----------------------------------------------------------------------------
+
+  No issues found.
+
+-----------------------------------------------------------------------------
+3. COMPONENT LAYOUT CHECK
+-----------------------------------------------------------------------------
+
+  No issues found.
+
+-----------------------------------------------------------------------------
+4. REPORT SUMMARY
+-----------------------------------------------------------------------------
+
+  3 issue(s) detected.
+
+  Once the items listed here have been checked you should run the Quality
+  Check report again to ensure that no further problems exist.
+
+-----------------------------------------------------------------------------
+
+End of report.
